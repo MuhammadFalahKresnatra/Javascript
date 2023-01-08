@@ -1,0 +1,21 @@
+body{
+    background-color: magenta;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.container{
+    text-align: center;
+}
+
+.btn-angka{
+    margin-top: 7px;
+}
+
+.btn-mat{
+    margin-top: 3px ;
+}
